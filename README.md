@@ -1,0 +1,2 @@
+# Web
+Trailcheq is a proposed platform that looks to foster trust within industries by lever- aging the Algorand Blockchain to ensure provenance, authenticity, and traceability throughout the supply chain. With our digital platform, producers ensure their prod- uct materials are rightly sourced and can communicate the place of origin, authentici- ty, and impact stories of the product. It also looks to ensure that consumers make data-driven purchasing decisions. In essence, we restore trust and strengthen engagement between brands and customers.
